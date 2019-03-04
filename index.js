@@ -2,4 +2,4 @@
 const currentUser = 'Tara Engelhardt';
 
 
-const welcomeMessage = "welcome to FLatbook, currentUser";
+const welcomeMessage = "welcome to FLatbook, " + currentUser;
